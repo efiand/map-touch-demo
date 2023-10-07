@@ -6,19 +6,35 @@
 	"places": [
 		{
 			"location": {
-				"lat": 55.745864,
-				"lng": 37.607698
+				"lat": 55.74,
+				"lng": 37.60
 			},
 			"name": "Пятерочка",
 			"category": "DISCOUNTS"
 		},
 		{
 			"location": {
-				"lat": 55.735864,
-				"lng": 37.677698
+				"lat": 55.81,
+				"lng": 37.63
+			},
+			"name": "Авоська",
+			"category": "DISCOUNTS"
+		},
+		{
+			"location": {
+				"lat": 55.73,
+				"lng": 37.67
 			},
 			"name": "Красное и белое",
 			"category": "CARDS"
+		},
+		{
+			"location": {
+				"lat": 55.72,
+				"lng": 37.68
+			},
+			"name": "Кафе у Иваныча",
+			"category": "PLACES"
 		}
 	]
 }
