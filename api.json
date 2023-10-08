@@ -6,8 +6,8 @@
 	"places": [
 		{
 			"location": {
-				"lat": 55.74,
-				"lng": 37.60
+				"lat": 55.65,
+				"lng": 37.59
 			},
 			"name": "Пятерочка",
 			"category": "DISCOUNTS"
@@ -27,6 +27,30 @@
 			},
 			"name": "Красное и белое",
 			"category": "CARDS"
+		},
+		{
+			"location": {
+				"lat": 55.75,
+				"lng": 37.62
+			},
+			"name": "Парк Зарядье",
+			"category": "PLACES"
+		},
+		{
+			"location": {
+				"lat": 55.83,
+				"lng": 37.62
+			},
+			"name": "ВДНХ",
+			"category": "PLACES"
+		},
+		{
+			"location": {
+				"lat": 55.71,
+				"lng": 37.56
+			},
+			"name": "Олимпийский комплекс Лужники",
+			"category": "PLACES"
 		},
 		{
 			"location": {
