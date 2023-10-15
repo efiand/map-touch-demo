@@ -1,0 +1,64 @@
+{
+	"center": {
+		"lat": 55.755864,
+		"lng": 37.617698
+	},
+	"places": [
+		{
+			"location": {
+				"lat": 55.65,
+				"lng": 37.59
+			},
+			"name": "Пятерочка",
+			"category": "DISCOUNTS"
+		},
+		{
+			"location": {
+				"lat": 55.81,
+				"lng": 37.63
+			},
+			"name": "Авоська",
+			"category": "DISCOUNTS"
+		},
+		{
+			"location": {
+				"lat": 55.73,
+				"lng": 37.67
+			},
+			"name": "Красное и белое",
+			"category": "CARDS"
+		},
+		{
+			"location": {
+				"lat": 55.75,
+				"lng": 37.62
+			},
+			"name": "Парк Зарядье",
+			"category": "PLACES"
+		},
+		{
+			"location": {
+				"lat": 55.83,
+				"lng": 37.62
+			},
+			"name": "ВДНХ",
+			"category": "PLACES"
+		},
+		{
+			"location": {
+				"lat": 55.71,
+				"lng": 37.56
+			},
+			"name": "Олимпийский комплекс Лужники",
+			"category": "PLACES"
+		},
+		{
+			"location": {
+				"lat": 55.72,
+				"lng": 37.68
+			},
+			"name": "Кафе у Иваныча",
+			"category": "PLACES"
+		}
+	]
+}
